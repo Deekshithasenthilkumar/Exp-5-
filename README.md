@@ -17,6 +17,8 @@ Step 3: System Design Draw UML diagrams: Use Case, Class, Activity, Sequence, Co
 <img width="1036" height="707" alt="Screenshot 2026-11-25 135551" src="https://github.com/user-attachments/assets/ec3912a1-bc25-4fa6-a006-7bdb76350e8a" />
 
 # ACTIVITY DIAGRAM:
+<img width="707" height="851" alt="image" src="https://github.com/user-attachments/assets/b0a88f26-b55e-424e-bf21-639dcaec0ea2" />
+
 # COMMUNICATION DIAGRAM:
 <img width="1142" height="902" alt="Screenshot 2026-11-25 140857" src="https://github.com/user-attachments/assets/1c7394e5-e8e5-482e-bcf9-ba334f10a5bb" />
 
